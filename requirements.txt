@@ -1,0 +1,7 @@
+autopep8==1.6.0
+Babel==2.10.3
+better-exceptions==0.3.3
+pycodestyle==2.8.0
+pytz==2022.1
+tkcalendar==1.6.1
+toml==0.10.2
